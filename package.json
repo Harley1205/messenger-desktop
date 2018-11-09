@@ -48,9 +48,9 @@
     "electron-builder": "20.33.2"
   },
   "dependencies": {
-    "electron-json-storage": "3.1.0",
-    "electron-window-state": "4.1.1",
-    "electron-settings": "3.1.4",
+    "electron-json-storage": "4.1.4",
+    "electron-window-state": "5.0.1",
+    "electron-settings": "3.2.0",
     "electron-updater": "3.2.2",
     "electron-hunspell": "0.1.1",
     "hazardous": "0.3.0",
